@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentData</string>
+    <string name="send_string">Send String</string>
+</resources>
